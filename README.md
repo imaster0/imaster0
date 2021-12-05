@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand.   
+> – Martin Fowler
+
+🔥 always open for collaboration on interesting projects 🔥
+
+🌱 I’m currently learning:
+- Flutter - https://flutter.dev/
+  
+📫 How to reach me: 
+ - imaster0x@gmail.com
 <!--
 **imaster0/imaster0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
