@@ -5,8 +5,6 @@
 
 🔥 always open for collaboration on interesting projects 🔥
 
-🔭 I’m currently working on:
-- Layered ML for Mobile Cloud Computing ([Mobile](https://github.com/imaster0/layered-ml-for-mcc-mobile))
 
 🌱 I’m currently learning:
 - Flutter - https://flutter.dev/
