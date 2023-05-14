@@ -7,7 +7,7 @@
 
 
 🌱 I’m currently learning:
-- Flutter - https://flutter.dev/
+- [Domain-Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
   
 📫 How to reach me: 
  - imaster0x@gmail.com
